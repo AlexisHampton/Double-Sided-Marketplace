@@ -1,6 +1,6 @@
 # Double-Sided-Marketplace
 
-A project created by <a href="https://github.com/AlexisHampton">Alexis</a>, <a href="https://github.com/AnthonyNDG>Anthony"</a>, and <a href="https://github.com/iamX2001">Jevi</a>
+A project created by <a href="https://github.com/AlexisHampton">Alexis</a>, <a href="https://github.com/AnthonyNDG">Anthony</a>, and <a href="https://github.com/iamX2001">Jevi</a>
 
 Alexis: created functionality to read and write data from firestore
 Anthony: set up Google authentication and bringing the front and back end together
