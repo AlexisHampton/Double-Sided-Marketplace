@@ -15,3 +15,5 @@ If we had more time, we would make it work. We might add features like messaging
 
 Next steps:
 In future projects, we will work on making sure our project fully works before working on cosmetics like CSS. Because having a project that works is better than not. 
+
+Our project slides: https://docs.google.com/presentation/d/1bjK8Hjd3tsgvcCCXWUmhDIbh4u9A_zVIhh7YnKu286U/edit#slide=id.g251cadcc62f_1_10 
